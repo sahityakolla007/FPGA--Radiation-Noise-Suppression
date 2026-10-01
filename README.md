@@ -1,2 +1,2 @@
-# FPGA--Radiation-Noise-Suppression
-Real-Time FPGA- Based Radiation Noise Suppression and Detection with comparative analysis of Deep Learning Techniques.
+Real-Time FPGA-Based Radiation Noise Suppression and Detection is a medical image-processing project designed to reduce radiation-related noise and unwanted variations in X-ray and CT images. The system uses an FPGA (Field-Programmable Gate Array) to perform real-time image processing, detect noise, and suppress unwanted artifacts while preserving important image details.
+The project also compares the performance of FPGA-based noise suppression with deep learning techniques such as DnCNN and Vision Transformer (ViT). Image quality can be evaluated using parameters such as PSNR, SSIM, and MSE. The overall aim is to achieve faster processing, reduced noise, and improved medical image quality for better visualization and analysis.
